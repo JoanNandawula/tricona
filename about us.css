@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(127, 134, 134);
+    border: solid;}
+.P { text-align: center}
+
+header {font-family: sans-serif;}
+a { text-align: left;}
+  
+
+.bar { background-color: antiquewhite;
+     }
+
+     .bar > a{margin-right: 20px;}
+
+.bar ul {  list-style-type: none;
+    text-align: center;
+    display: inline-flex;}
+
+.second{
+    margin-right: 50px;
+    border-radius: 30px;}
+
+.First{margin: 50px;
+border-radius: 40px;}
+.third{border-radius: 30px;}
+.net{padding: 40px;}
+link{margin: 20px;}
